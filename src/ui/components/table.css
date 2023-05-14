@@ -1,0 +1,8 @@
+.App .MuiTableBody-root .MuiTableRow-root:first-of-type {
+    position: sticky;
+    top: 55px;
+    z-index: 1;
+    /* background: #00324B;
+   */
+    background: #E5E5E5;
+  }
